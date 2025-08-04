@@ -1,0 +1,21 @@
+{
+  "name": "solar-storm-dark-theme",
+  "displayName": "css-battle",
+  "description": "css-battle",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solar Storm Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solar-storm-dark-color-theme.json"
+      }
+    ]
+  }
+}
