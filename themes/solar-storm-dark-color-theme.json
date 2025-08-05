@@ -458,7 +458,7 @@
       {
         "scope": ["comment"],
         "settings": {
-          "foreground": "#7b758e",
+          "foreground": "#6c6783",
           "fontStyle": "italic"
         }
       },
@@ -1377,7 +1377,7 @@
       "name": "[VSCODE-CUSTOM] CSharp Storage Type",
       "scope": "keyword.operator.expression.await.cs",
       "settings": {
-        "foreground": "#6c6783",
+        "foreground": "#9a86fd",
         "fontStyle": "italic"
       }
     },
@@ -1458,6 +1458,13 @@
         "foreground": "#ff7546"
       }
     },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Storage Class Std",
+      "scope": "source.rust",
+      "settings": {
+        "foreground": "#eeebff"
+      }
+    },
      {
       "name": "[VSCODE-CUSTOM] Ruby Punctuation Separator Variable",
       "scope": "punctuation.separator.variable.ruby",
@@ -1519,6 +1526,14 @@
       "scope": "support.class.builtin.php",
       "settings": {
         "foreground": "#eeebff"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Keyword Control Flow",
+      "scope": "keyword.control.return.php",
+      "settings": {
+        "foreground": "#9a86fd",
+        "fontStyle": "italic"
       }
     },
     ]
