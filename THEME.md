@@ -1,5 +1,4 @@
 --rich-black: #101219;
---chinese-violet: #6c6783;
 --mountbatten-pink: #7b7693;
 --rose-quartz: #B1A0BA;
 --lavender-web: #eeebff;
@@ -8,3 +7,6 @@
 --butterscotch: #e09142;
 --salmon-pink: #fc8899;
 --tropical-indigo: #9a86fd;
+
+old:
+--chinese-violet: #6c6783;
