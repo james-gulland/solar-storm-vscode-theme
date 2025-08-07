@@ -612,19 +612,19 @@
       {
         "scope": ["punctuation.separator"],
         "settings": {
-          "foreground": "#ffcc99"
+          "foreground": "#e09142"
         }
       },
       {
         "scope": ["punctuation.separator.comma"],
         "settings": {
-          "foreground": "#C1701F"
+          "foreground": "#e09142"
         }
       },
       {
         "scope": ["punctuation.definition.string", "punctuation.terminator"],
         "settings": {
-          "foreground": "#C1701F"
+          "foreground": "#e09142"
         }
       },
       {
@@ -742,7 +742,7 @@
         }
       },
       {
-        "scope": ["constant.numeric", "meta.object.member string.quoted", "meta.object.member punctuation.definition.string"],
+        "scope": ["constant.numeric", "meta.object.member string.quoted", "string.quoted.double.json"],
         "settings": {
           "foreground": "#ffcc99"
         }
